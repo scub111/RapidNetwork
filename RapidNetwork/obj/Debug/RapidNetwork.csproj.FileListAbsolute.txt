@@ -1,0 +1,5 @@
+D:\_Projects\RapidNetwork\RapidNetwork\bin\Debug\RapidNetwork.dll
+D:\_Projects\RapidNetwork\RapidNetwork\bin\Debug\RapidNetwork.pdb
+D:\_Projects\RapidNetwork\RapidNetwork\obj\Debug\RapidNetwork.csprojResolveAssemblyReference.cache
+D:\_Projects\RapidNetwork\RapidNetwork\obj\Debug\RapidNetwork.dll
+D:\_Projects\RapidNetwork\RapidNetwork\obj\Debug\RapidNetwork.pdb
